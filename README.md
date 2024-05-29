@@ -21,5 +21,6 @@ Builds the app for production to the `dist` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-![Uploading Screenshot 2024-05-29 202925.png…]()
+<p>Your app is ready to be deployed!</p>
+
+![Screenshot 2024-05-29 202925](https://github.com/Charles-benny/OpenDevin-main/assets/121818645/d68558a2-12db-4080-b787-d5d297b0153e)
